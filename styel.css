@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container {
+    width: 50%;
+}
+p{
+   
+    margin-top: 50px;
+    font-size: 20px;
+    line-height: 2;
+}
+.btn {
+    
+    
+}
+.btn button {
+    padding: 15px;
+    font-size: 35px;
+    color: white;
+    background-color: #25c5c5;
+    cursor: pointer;
+}
+.writer {
+    text-align: right;
+    margin-top: 50px;
+}
